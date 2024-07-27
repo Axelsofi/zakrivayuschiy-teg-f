@@ -18,4 +18,7 @@
     repeating-linear-gradient(to bottom, #d3d3d3 0 2px, transparent 2px 4px);
     --accent-color: #000000;
     --header-color: #FFFFFF;
-}/* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+    --font-variation-settings: 400;
+    --font-variation-title: 700;
+    --border-shadow: 3px 3px 0px 0px rgba(0, 0, 0, 1);
+}
